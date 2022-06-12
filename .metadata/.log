@@ -1,0 +1,51 @@
+!SESSION 2022-06-11 19:38:59.119 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-11 19:39:24.363
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-11 19:39:24.445
+!MESSAGE Log4j initialized with config file C:\Users\ridel\Documents\CareerDevelopment\Embedded\08Bootloader\My_Workspace_Bootloader\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-11 19:39:27.374
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-06-11 19:40:14.191 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/ridel/Documents/CareerDevelopment/Embedded/08Bootloader/My_Workspace_Bootloader/
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-11 19:40:19.118
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-11 19:40:19.201
+!MESSAGE Log4j initialized with config file C:\Users\ridel\Documents\CareerDevelopment\Embedded\08Bootloader\My_Workspace_Bootloader\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-11 19:40:23.398
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-11 19:43:19.115
+!MESSAGE Indexed 'Bootloader_STM32F446' (22 sources, 82 headers) in 4.73 sec: 4,990 declarations; 26,412 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0064%)
+!SESSION 2022-06-11 20:25:22.267 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-11 20:25:29.196
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-11 20:25:29.271
+!MESSAGE Log4j initialized with config file C:\Users\ridel\Documents\CareerDevelopment\Embedded\08Bootloader\My_Workspace_Bootloader\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-11 20:25:34.798
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-11 20:26:58.739
+!MESSAGE Indexed 'User_App_STM32F446X' (22 sources, 82 headers) in 5.77 sec: 4,990 declarations; 26,412 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0064%)
